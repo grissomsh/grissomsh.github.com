@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Grissom's daily technology thoughts
-tagline: Site Tagline
+tagline: Show me the code!
 author :
   name : Grissom Wang
   email : wang.tianqing.cn@gmail.com
