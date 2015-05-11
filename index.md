@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Things Technical
-tagline: Welcome
+tagline: Talk is cheap, show me the code!
 ---
 {% include JB/setup %}
 
@@ -19,9 +19,9 @@ I have 20+ patent applications have been filed both in China and US.
 
 I'm member of EMC China COE Technical Committee, co-chair of Innovation sub-committee.
 
-[My linkedin profile](https://www.linkedin.com/profile/view?id=102574956)
+Linkedin: [Profile](https://www.linkedin.com/profile/view?id=102574956)
 
-Twitter: @grissomsh
+Twitter: [@grissomsh](https://twitter.com/grissomsh)
 
 **Others**
 
@@ -29,4 +29,4 @@ I have a lovely and vigorous son. He is a super fan of toy car/train/vehicle. <b
 <img src="images/P1020684.jpg" alt="My lovely Son" style="width:100px"/> <br/>
 
 My lovely wife :) <br/>
-<img src="images/my_wifle.jpg" alt="" style="width:100px" /> <br/>
+<img src="images/my_wifle.jpg" alt="My lovely wife" style="width:100px" /> <br/>
