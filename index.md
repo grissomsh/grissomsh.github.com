@@ -19,8 +19,7 @@ I have 20+ patent applications have been filed both in China and US.
 
 I'm member of EMC China COE Technical Committee, co-chair of Innovation sub-committee.
 
-Linkedin: [Grissom, Wang](https://www.linkedin.com/profile/view?id=102574956)</br>
-Twitter: [@grissomsh](https://twitter.com/grissomsh)
+Linkedin: [Grissom, Wang](https://www.linkedin.com/profile/view?id=102574956), Twitter: [@grissomsh](https://twitter.com/grissomsh)
 
 **Others**
 
