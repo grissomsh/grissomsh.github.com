@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Reading materials"
 description: ""
 category: 
@@ -8,4 +8,6 @@ tags: [blog]
 {% include JB/setup %}
 
 
-<a src="../K-means.html" target="_blank">K-means introduction by Byron</a>
+# K-means
+
+[K-means introdcution by Byron](/K-means.html)
